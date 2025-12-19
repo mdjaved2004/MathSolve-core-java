@@ -22,9 +22,9 @@
     6. Polynomials
         - one polynomial Max-power 2 (Find Roots)
         - one polynomial Max-power 3 (Find Roots)
-        - Two polynomial Max-power 2 (Perform Find Roots, Addition, Subtruction, Multiplication)
-        - Two polynomial Max-power 3 (Perform Find Roots, Addition, Subtruction, Multiplication)
-        - Three polynomial Max-power 2 (Perform Find Roots, Addition, Subtruction, Multiplication)
-        - Three polynomial Max-power 3 (Perform Find Roots, Addition, Subtruction, Multiplication)
+        - Two polynomial Max-power 2 (Find Roots, Addition, Subtruction, Multiplication)
+        - Two polynomial Max-power 3 (Find Roots, Addition, Subtruction, Multiplication)
+        - Three polynomial Max-power 2 (Find Roots, Addition, Subtruction, Multiplication)
+        - Three polynomial Max-power 3 (Find Roots, Addition, Subtruction, Multiplication)
 
  
