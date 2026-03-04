@@ -1,30 +1,106 @@
-# Desktop Application (Practice Project)
-    - Technology use : Core java
-    - Only one time run and program conlrol user like back, Home page, and exit programany step or page.
+# 🖥️ Desktop Application (Practice Project)
 
-## Cover Only This Moduls
-    1. Simple Calculator
-        - Performs Addition, Subtraction, Multiplication, and Division (Uses a single input field to perform all calculations together)
-        - Performs Squre, Squre Root, Cube , Cube Root and Table 
+A Core Java-based desktop application developed for practice and strengthening programming fundamentals.
 
-    2. Matrix(2D Array)
-       - Matrix Addition, Matrix Subtruction, Matrix Multiplication, Determinant, Co-factor, adjA and invers.
-  
-    3. Factorial and Array (Performs '+' '-' '*' '/')
-     
-    4. Circle
-       - Perform Area,	Diameter,	Circumfarence, Semicircle aria etc.
-     
-    5. Quadriateral
-       - Rectangle (Area, Perimeter, Diagonal)
-       - Square  (Area, Perimeter, Diagonal)
-     
-    6. Polynomials
-        - one polynomial Max-power 2 (Find Roots)
-        - one polynomial Max-power 3 (Find Roots)
-        - Two polynomial Max-power 2 (Find Roots, Addition, Subtruction, Multiplication)
-        - Two polynomial Max-power 3 (Find Roots, Addition, Subtruction, Multiplication)
-        - Three polynomial Max-power 2 (Find Roots, Addition, Subtruction, Multiplication)
-        - Three polynomial Max-power 3 (Find Roots, Addition, Subtruction, Multiplication)
+> ⚙️ Built using: **Core Java**
 
- 
+This application runs in a single execution flow and allows users to navigate between:
+- 🔙 Back  
+- 🏠 Home Page  
+- ❌ Exit Program (from any step)
+
+---
+
+## 📦 Modules Covered
+
+---
+
+### 🧮 1. Simple Calculator
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🔢 Square  
+- 📐 Square Root  
+- 🔺 Cube  
+- 📏 Cube Root  
+- 📊 Table Generator  
+
+> Uses a single input field to perform combined calculations.
+
+---
+
+### 🔢 2. Matrix (2D Array)
+
+- ➕ Matrix Addition  
+- ➖ Matrix Subtraction  
+- ✖️ Matrix Multiplication  
+- 📐 Determinant  
+- 🧮 Co-factor  
+- 🔁 Adjoint  
+- 🔄 Inverse  
+
+---
+
+### 📊 3. Factorial & Array Operations
+
+- 🔢 Factorial Calculation  
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+
+---
+
+### ⭕ 4. Circle Calculations
+
+- 📐 Area  
+- 📏 Diameter  
+- 🔄 Circumference  
+- ◐ Semicircle Area  
+
+---
+
+### 🔷 5. Quadrilateral
+
+#### ▪ Rectangle
+- 📐 Area  
+- 📏 Perimeter  
+- 📊 Diagonal  
+
+#### ▪ Square
+- 📐 Area  
+- 📏 Perimeter  
+- 📊 Diagonal  
+
+---
+
+### 📈 6. Polynomials
+
+#### 🔹 Single Polynomial
+- Max Power 2 → 🧮 Find Roots  
+- Max Power 3 → 🧮 Find Roots  
+
+#### 🔹 Two Polynomials
+- Max Power 2 → ➕ ➖ ✖️ + Find Roots  
+- Max Power 3 → ➕ ➖ ✖️ + Find Roots  
+
+#### 🔹 Three Polynomials
+- Max Power 2 → ➕ ➖ ✖️ + Find Roots  
+- Max Power 3 → ➕ ➖ ✖️ + Find Roots  
+
+---
+
+## 🎯 Learning Objective
+
+- Strengthen Core Java fundamentals  
+- Improve logical thinking  
+- Practice 2D Arrays and mathematical algorithms  
+- Implement menu-driven navigation system  
+
+---
+
+## 🛠️ Technology Used
+
+- ☕ Core Java
